@@ -4656,3 +4656,6 @@ LogConfig: Set CVar [[r.DynamicRes.DynamicFrameTime:1]]
 [2026.01.18-15.11.03:228][877]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AnimPack/RefactorAnims/NEW_AL_Standard_Anim_Rig_Walk_Loop_Auto1
 [2026.01.18-15.11.03:228][877]LogSavePackage: Moving '../../../../../../Users/Vikto/GitHub/PlatformProject_Unreal/PlatformProject/Saved/NEW_AL_Standard_Anim_Rig_Walk_Lo2526629947EB4BF41455BA9E30CCCE47.tmp' to '../../../../../../Users/Vikto/GitHub/PlatformProject_Unreal/PlatformProject/Saved/Autosaves/Game/AnimPack/RefactorAnims/NEW_AL_Standard_Anim_Rig_Walk_Loop_Auto1.uasset'
 [2026.01.18-15.11.03:230][877]LogFileHelpers: Auto-saving content packages took 1.425
+[2026.01.18-15.14.19:629][467]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2119.937500
+[2026.01.18-15.14.20:628][470]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.18-15.14.20:628][470]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2120.604736, Update Interval: 309.281891
